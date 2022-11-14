@@ -1,1 +1,1 @@
-<h1 class="text=center"> Hi Guys 👋 </h1> 
+<h1 class="align=center"> Hi Guys 👋 </h1> 
