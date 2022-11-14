@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daan van der Meulen</h1>
 <h3 align="center">A studen computer science at Avans University Of Applied Sciences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turbosjaantje&label=Profile%20views&color=0e75b6&style=flat" alt="turbosjaantje" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=turbosjaantje&label=Profile%20views&color=0e75b6&style=flat" alt="turbosjaantje" /> </p>
 
 - 🔭 I’m currently working on **An angular projact**
 
