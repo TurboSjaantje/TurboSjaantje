@@ -3,15 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=turbosjaantje&label=Profile%20views&color=0e75b6&style=flat" alt="turbosjaantje" /> </p>
 
-<p align=center> - 🔭 I’m currently working on **An angular projact** </p>
-
-<p align=center> - 🌱 I’m currently learning **Angular and NestJS** </p>
-
-<p align=center> - 💬 Ask me about **Webdesign** </p>
-
-<p align=center> - ⚡ Fun fact **I play the Trombone** </p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/daan van der meulen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daan van der meulen" height="30" width="40" /></a>
