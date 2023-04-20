@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daan van der Meulen</h1>
-<h3 align="center">A studen computer science at Avans University Of Applied Sciences.</h3>
+<h3 align="center">A student computer science at Avans University Of Applied Sciences.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=turbosjaantje&label=Profile%20views&color=0e75b6&style=flat" alt="turbosjaantje" /> </p>
 
